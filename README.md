@@ -199,21 +199,7 @@ Through this project I strengthened my skills in:
 
 ---
 
-## 📸 Dashboard Preview
 
-> **Add screenshots here after uploading them to the repository.**
-
-Example:
-
-```markdown
-![Dashboard](images/dashboard.png)
-
-![Insights](images/insights.png)
-
-![Documentation](images/documentation.png)
-```
-
----
 
 ## 👨‍💼 About This Project
 
